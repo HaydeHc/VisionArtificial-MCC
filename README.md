@@ -1,7 +1,7 @@
 # PRÁCTICA 01 - VISIÓN ARTIFICIAL - MCC
 
 ## Estudiantes
-- Canaza Cori, Franklin
+- Canaza Ccori, Franklin
 - Huaman Canqui, Jair Franceso
 - Humpire Cutipa, Hayde Luzmila
 - Tapara Quispe, Jhoel Salomon
