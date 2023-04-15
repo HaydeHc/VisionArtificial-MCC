@@ -9,7 +9,7 @@
 ## Enlaces Colab
 - [Colab de Franklin](https://)
 - [Colab de Jair](https://)
-- [Colab de Hayde](https://)
+- [Colab de Hayde](https://colab.research.google.com/drive/13gSSih-18NeatCpO6CRF3tdleCGuB1KH?usp=sharing)
 - [Colab de Jhoel](https://)
 
 ## EJERCICIOS
