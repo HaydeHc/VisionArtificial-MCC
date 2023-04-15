@@ -16,10 +16,13 @@
 ## Enlaces Colab
 Franklin:
 - [Ejercicio 1](https://colab.research.google.com/drive/14jVs66l8pIyEGVCneR_FnF2qiJRUK-tW?usp=sharing)
+
 Jair:
 - [Colab de Jair](https://)
+
 Hayde:
 - [Colab de Hayde](https://colab.research.google.com/drive/13gSSih-18NeatCpO6CRF3tdleCGuB1KH?usp=sharing)
+
 Jhoel:
 - [Colab de Jhoel](https://)
 
