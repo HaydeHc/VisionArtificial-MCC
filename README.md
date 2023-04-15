@@ -16,6 +16,10 @@
 ## Enlaces Colab
 Franklin:
 - [Ejercicio 1](https://colab.research.google.com/drive/14jVs66l8pIyEGVCneR_FnF2qiJRUK-tW?usp=sharing)
+- [Ejercicio 2](https://colab.research.google.com/drive/1k1evaHf32x4EOyyzcmQqGbiRUHRL0CJo?usp=sharing)
+- [Ejercicio 3](https://colab.research.google.com/drive/1a-7AAxqnIM0raRfQ13MgmS-9sHaHaOwA?usp=sharing)
+- [Ejercicio 4](https://colab.research.google.com/drive/1XlFMZFaKhuou_G0H6ONkAfblyc8WkZy6?usp=sharing)
+- [Ejercicio 5](https://colab.research.google.com/drive/14jVs66l8pIyEGVCneR_FnF2qiJRUK-tW?usp=sharing)
 
 Jair:
 - [Colab de Jair](https://)
