@@ -22,7 +22,7 @@ Franklin:
 - [Ejercicio 5](https://colab.research.google.com/drive/14jVs66l8pIyEGVCneR_FnF2qiJRUK-tW?usp=sharing)
 
 Jair:
-- [Colab de Jair](https://)
+- [Colab de Jair](https://colab.research.google.com/drive/1pEStg3Ae-mv71T3eerWJtmkB2GnMIpFu?usp=sharing)
 
 Hayde:
 - [Colab de Hayde](https://colab.research.google.com/drive/13gSSih-18NeatCpO6CRF3tdleCGuB1KH?usp=sharing)
