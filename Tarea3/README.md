@@ -12,8 +12,8 @@
 
 ## Enlaces Colab
 Franklin:
-- [Ejercicio 1](https://colab.research.google.com/drive/1efN4LJBD-jhSvLwW7FnExPYyl_5zFD0V)
-- [Ejercicio 2](https://colab.research.google.com/drive/1C80X3xn0QUHs5nR8hO1_NOWAI8U0uBy0?usp=sharing)
+- [Ejercicio 1 - Transformada de Fourier recursiva](https://colab.research.google.com/drive/1efN4LJBD-jhSvLwW7FnExPYyl_5zFD0V)
+- [Ejercicio 2 - Template Matching](https://colab.research.google.com/drive/1C80X3xn0QUHs5nR8hO1_NOWAI8U0uBy0?usp=sharing)
 
 Jair:
 - [Colab de Jair](https://colab.research.google.com/drive/1pEStg3Ae-mv71T3eerWJtmkB2GnMIpFu?usp=sharing)
