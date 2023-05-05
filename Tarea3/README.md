@@ -22,4 +22,5 @@ Hayde:
 - [Colab de Hayde](https://colab.research.google.com/drive/13gSSih-18NeatCpO6CRF3tdleCGuB1KH?usp=sharing)
 
 Jhoel:
-- [Colab de Jhoel](https://github.com/HaydeHc/VisionArtificial-MCC/blob/main/Tarea1/Jhoel/VisionArtificialTarea1-1.ipynb)
+- [Ejercicio 1 - Transformada de Fourier recursiva](https://colab.research.google.com/drive/1oEcJ7NGpp3A0rx5xrI4NdJ6zqMBmvDP0?usp=sharing)
+- [Ejercicio 2 - Template Matching](https://colab.research.google.com/drive/1nLn4dD6Nugexx1XYDSJipDU3HOzP_7LT?usp=sharing)
