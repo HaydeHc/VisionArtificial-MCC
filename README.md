@@ -7,7 +7,7 @@ Estudiantes:
 - Tapara Quispe, Jhoel Salomon
 
 # TAREA 1: Artículos referenciales para Proyecto Final
-- Trabajo Grupal: [Propuestas de Proyecto]([https://colab.research.google.com/drive/1pEStg3Ae-mv71T3eerWJtmkB2GnMIpFu?usp=sharing](https://github.com/HaydeHc/VisionArtificial-MCC/blob/main/PapersPropuestas.pdf)
+- Trabajo Grupal: [Propuestas de Proyecto](https://github.com/HaydeHc/VisionArtificial-MCC/blob/main/PapersPropuestas.pdf)
 
 # TAREA 2: 
 EJERCICIOS
@@ -31,7 +31,7 @@ EJERCICIOS
 ## Enlaces Colab
 - Franklin: [Colab: Ejercicios 1 y 2](https)
 - Jair: [Colab: Ejercicios 1 y 2](https)
-- Hayde: [Colab: Ejercicios 1 y 2]([https](https://colab.research.google.com/drive/1uwWBP3eqFfc4kUls8ASIHblzzG2AzH5p?usp=sharing)
+- Hayde: [Colab: Ejercicios 1 y 2](https://colab.research.google.com/drive/1uwWBP3eqFfc4kUls8ASIHblzzG2AzH5p?usp=sharing)
 - Jhoel: [Colab: Ejercicios 1 y 2](https)
 
 # PROYECTO FINAL
