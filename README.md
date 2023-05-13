@@ -1,6 +1,6 @@
 # TAREAS VISIÓN ARTIFICIAL - MCC
 
-## Estudiantes
+Estudiantes
 - Canaza Ccori, Franklin
 - Huaman Canqui, Jair Franceso
 - Humpire Cutipa, Hayde Luzmila
@@ -11,7 +11,7 @@ Trabajo Grupal:
 - [Propuestas de Proyecto]([https://colab.research.google.com/drive/1pEStg3Ae-mv71T3eerWJtmkB2GnMIpFu?usp=sharing](https://github.com/HaydeHc/VisionArtificial-MCC/blob/main/PapersPropuestas.pdf)
 
 # TAREA 2: 
-## EJERCICIOS
+EJERCICIOS
 1. Crear una función Ecualización del Histograma
 2. Operaciones Aritméticas
 3. Convolución - Extremos Cero
@@ -33,7 +33,7 @@ Jhoel:
 
 
 # TAREA 3
-## EJERCICIOS
+EJERCICIOS
 1. Transformada de Fourier Recursiva
 2. Template Matching
 
