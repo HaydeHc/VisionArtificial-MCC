@@ -19,7 +19,7 @@ Jair:
 - [Colab de Jair](https://colab.research.google.com/drive/1pEStg3Ae-mv71T3eerWJtmkB2GnMIpFu?usp=sharing)
 
 Hayde:
-- [Colab de Hayde](https://colab.research.google.com/drive/13gSSih-18NeatCpO6CRF3tdleCGuB1KH?usp=sharing)
+- [Colab Ejercicio 1 y 2](https://colab.research.google.com/drive/1uwWBP3eqFfc4kUls8ASIHblzzG2AzH5p?usp=sharing)
 
 Jhoel:
 - [Ejercicio 1 - Transformada de Fourier recursiva](https://colab.research.google.com/drive/1oEcJ7NGpp3A0rx5xrI4NdJ6zqMBmvDP0?usp=sharing)
